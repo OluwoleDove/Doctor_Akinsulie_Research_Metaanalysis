@@ -1,6 +1,3 @@
-# Dr.-Leks-Metaanalysis
-Medical Research Work
-
 Meta-analysis of Cholera and COVID-19: A Comparative Study
 This project delves into a comprehensive meta-analysis comparing the causes, interventions, and vaccination strategies for cholera and COVID-19 across different countries and continents. It leverages Python and various Python libraries to process data, perform statistical calculations, and generate insightful visualizations.
 
