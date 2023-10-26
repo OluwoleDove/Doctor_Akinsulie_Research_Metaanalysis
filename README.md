@@ -28,7 +28,7 @@ To install those modules, start you command prompt or terminal OR download the G
 - pip install seaborn
 
 RESEARCH OVERVIEW
-This research worl aims to compare the causes, interventions, and vaccination strategies for cholera and COVID-19 across different regions. It utilizes statistical methods like mean, standard deviation, and Cohen's d to analyze the data and generate informative visualizations such as heatmaps, bar plots, and forest plots.
+This research work aims to compare the causes, interventions, and vaccination strategies for cholera and COVID-19 across different regions. It utilizes statistical methods like mean, standard deviation, and Cohen's d to analyze the data and generate informative visualizations such as heatmaps, bar plots, and forest plots.
 
 USAGE
 The project's code is structured to guide you through the analysis process, from data preprocessing to statistical analysis and visualization generation. Each step is accompanied by explanatory comments for clarity.
